@@ -46,7 +46,7 @@ youre even lucky to have a language with such simple and readable syntax!!! take
 
 **ALL THAT TO PRINT HELLO WORLD!!!**
 
-and also look at shakespeare!!! its a programming language where youre writing in shakespeare plays!!! i thought this was programming not computer science??
+and also look at shakespeare!!! its a programming language where youre writing in shakespeare plays!!! i thought this was programming not litrature??
 
 it takes **57 LINES** to write a simple hello world!!! **57 LINES!!!!!!** and take a look at this snippet !!!the syntax doesn't even make sense, and why does everyone keep saying "Speak your mind!!!!!"??????????????????????????????????????
 
@@ -338,3 +338,9 @@ qpx5997
 .
 
 .bye!!
+
+## Chapter 11: versions
+
+v0.1: first demo ver!!!!!!
+
+v0.2: updated to show the version number
