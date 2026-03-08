@@ -8,7 +8,7 @@ to_iterate = {}
 iterations = {}
 loopstarts = {}
 
-code_file_name = input("""👋➡️🐑Ⓜ️😮🧀❗❗❗❗
+code_file_name = input("""👋➡️🐑Ⓜ️😮🧀0️⃣⏺️1️2️⃣❗❗❗❗
 ⌨️📁🏷️➡️➡️➡️ """)
 
 try:
@@ -129,4 +129,5 @@ while i <= len(codelines): # it has to be a while loop so loops work properly
 📍{i}
 {e}
 🙋🦥🛌""")
+
         exit()
