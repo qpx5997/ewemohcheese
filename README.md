@@ -38,6 +38,8 @@ and no while loops either!!! just use the builtin forever loop and then if somet
 
 why none of these features??? because im lazy and its probably already turing complete i think
 
+(actually it isnt, its only a demo version currently)
+
 youre even lucky to have a language with such simple and readable syntax!!! take a look at whatever this Brainf▉▉▉ code is:
 
 ```
