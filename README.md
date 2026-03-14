@@ -232,6 +232,21 @@ to add a cooment:
 🗒️ this line prints helo world!
 ```
 
+also theres 🖨️🔚!! syntax is same as 🖨️ but uhh theres no newline after the rpint!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!YAY
+
+so when u do this:
+
+```
+🖨️🔚⏩99
+🖨️⏩ thingies
+```
+thishappens!
+```
+99 thingies
+```
+
+this doesnt worj before 0.4 so make sure u have 0.4or later if u want that!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ## chapter 7: MATH CLASS
 
 🐑Ⓜ️😮🧀 comes with 5 helpfull arismetric!
@@ -317,7 +332,54 @@ if u want your program to END ALREADY BEFORE IT FINISHES RUNNING, just put
 
 it ends the code!
 
-## chapter 10: u can do stuff
+## chapter 10:erors,oof!!!
+
+oh no!!! erors exist in 🐑Ⓜ️😮🧀 u know!!!
+
+there are 2 types!
+
+### type one!
+
+```
+☹️❌👎
+📍(LINE NUMBER!!!)
+(ERROR!!!)
+🙋🦥🛌
+👉⌨️
+```
+
+sometjing like this hapens when ur code is wrong!!!!!!!!
+
+heres how the eror works
+
+☹️❌👎 means "theres an eror and its bad, it makes me sad, it might make me mad, fix it, lad"
+
+📍(LINE NUMBER!!!) tells u which line its at!(LINE NUMBER!!!) in real is replacewd witb the actual line number
+
+(ERROR!!!) in reality it won't be "(ERROR!!!!)" it will be an actual python error! if u know python then good 4 u ! you can fix the eror easily!
+
+🙋🦥🛌 means that im lazy to create unique eror mesages! so lol
+
+👉⌨️ means to press enter once ur done reading!
+
+NOTEY! if the line number is ⌨️📁 means that sommething wrong hapened when u were typing the PATH to your sourcecode file! like the path doent exist or smth
+
+### typr NUMBER TTTTTTTTTTTTWWWWWWWWWWWWWWWWWWOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+```
+☹️❌👎
+📍⌨️📁
+⏺️🐑Ⓜ️😮🧀✅⏺️(FILE EXTENSION!!!)❌❌❌❌❌❌
+👉⌨️
+```
+
+this is rthe **WORSTEST *SIN*** **OF ALL!!** its **VERY BA**D!!! the thing u did was that u submitted a file that doesnt end with .🐑Ⓜ️😮🧀!!! ***HOW DARE YOU!!!***
+
+⏺️🐑Ⓜ️😮🧀✅⏺️(FILE EXTENSION!!!)❌❌❌❌❌❌ means that .🐑Ⓜ️😮🧀 files are good and (FILE EXTENSION!!!) is replaced with ur bad file extension!!!!!!!!!!! and that and the file extension you did is bad!!!!!!!!!!!!!! 6 times!!!!!!!!!!!!! by a lot!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+# This is why u should never do this kind of thing!!! dont u ever do this!!! maek sure all ur file s are ending with .🐑Ⓜ️😮🧀 and not anything else!!!!!!!!!!!!!!!!
+
+## chapter 11: u can do stuff
 
 coagulations u just finished this! go on and code!!!!!!!!!!!!!!!!!!!
 
@@ -341,10 +403,12 @@ qpx5997
 
 .bye!!
 
-## Chapter 11: versions
+## Chapter 12: versions
 
 v0.1: first demo ver!!!!!!
 
 v0.2: updated to show the version number
 
 v0.3: made it so that it exits if its the wrong extensiom!!!!!!
+
+v0.4: made it so that u have to press enter to exit after u see the error so u actually have time to see it!!! also added 🖨️🔚
