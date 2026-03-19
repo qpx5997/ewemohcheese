@@ -14,7 +14,7 @@ this is only a demo version, it doesbt come with ifelse or forever loops and stu
 
 So 🐑Ⓜ️😮🧀 is an esolang. an esolang is a type of programming language that is supposed to be funny and stuff. u don't do serious code in it.
 
-some examples of esolangs include Brainf▉▉▉, where u program in just 8 SYMBOLS, chef, where u program using recipes, and then theres also Piet where u use PICTURES to code?????
+some examples of esolangs include Brainf███, where u program in just 8 SYMBOLS, chef, where u program using recipes, and then theres also Piet where u use PICTURES to code?????
 
 🐑Ⓜ️😮🧀 is an esolang where u code in emojis!!! thats how it got its name: 🐑Ⓜ️😮🧀 = ewe-m-oh-cheese ≈ emojis!!
 
@@ -40,7 +40,7 @@ why none of these features??? because im lazy and its probably already turing co
 
 (actually it isnt, its only a demo version currently)
 
-youre even lucky to have a language with such simple and readable syntax!!! take a look at whatever this Brainf▉▉▉ code is:
+youre even lucky to have a language with such simple and readable syntax!!! take a look at whatever this Brainf███ code is:
 
 ```
 ++++++++\[>++++\[>++>+++>+++>+<<<<-]>+>+>->>+\[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
