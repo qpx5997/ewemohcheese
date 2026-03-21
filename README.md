@@ -391,7 +391,7 @@ u r free to use it however u want!!! because creative commons license!!! and cha
 
 ### my monologue about opensourceism
 
-i support opensourceism!!! unlike these selfish microsoft guys who close source it and expect us to decode the exes and dlls, not implying that microsoft is bad but the world needs code for all to share and use and copy freely without permission! the world is full of greedy people like the fl studio guys where u have to pay $59 A YEAR to make music and adobe animate where one needs to pay $170 A YEAR JUST TO ANIMATE OBJECT SHOWS!!! all my software is free to use and there on github, i use the creative commons license because it allows the most freedom!!! ok bye
+i support opensourceism!!! unlike microsoft who close source it and expect us to decode the exes and dlls, not implying that microsoft is bad but the world needs code for all to share and use and copy freely without permission! the world is full of software like fl studio where u have to pay $59 to make music and adobe animate where one needs to pay $170 A YEAR JUST TO ANIMATE OBJECT SHOWS!!! all my software is free to use and there on github, i use the creative commons license because it allows the most freedom!!! ok bye
 
 tysm for reding this and see u again!
 
