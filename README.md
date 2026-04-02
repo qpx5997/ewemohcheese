@@ -436,3 +436,5 @@ v0.3: made it so that it exits if its the wrong extensiom!!!!!!
 v0.4: made it so that u have to press enter to exit after u see the error so u actually have time to see it!!! also added 🖨️🔚
 
 v0.5: added 🔄️!!! also aded more cooments in the sourcecode
+
+v0.6 bugfix! if -> elif
