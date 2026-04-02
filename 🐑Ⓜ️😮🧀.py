@@ -8,7 +8,7 @@ to_iterate = {} # how many times a loop has to iterate
 iterations = {} # how many times a loop has iterated
 loopstarts = {} # which line a loop starts at
 
-code_file_name = input("""👋➡️🐑Ⓜ️😮🧀0️⃣⏺️5️⃣❗❗❗❗
+code_file_name = input("""👋➡️🐑Ⓜ️😮🧀0️⃣⏺️6️⃣❗❗❗❗
 ⌨️📁🏷️➡️➡️➡️ """)
 
 try:
@@ -52,7 +52,7 @@ while i <= len(codelines): # it has to be a while loop so loops work properly
                 iterations.pop(loopid)
                 loopid -= 1
 
-        if linesegs[0] == "🔄️": # continue statement
+        elif linesegs[0] == "🔄️": # continue statement
             i = loopstarts[loopid]
 
         elif linesegs[0] == "🖨️": # this is like pythons print() function
