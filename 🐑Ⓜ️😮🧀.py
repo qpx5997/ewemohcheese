@@ -3,12 +3,12 @@ from pathlib import Path
 
 # Set variables, lists, dictionaries
 variables = {}
-loopid = 0
-to_iterate = {}
-iterations = {}
-loopstarts = {}
+loopid = 0      # if in a loop, loopid = 1, if in a loop in a loop, loopid = 2, and so on
+to_iterate = {} # how many times a loop has to iterate
+iterations = {} # how many times a loop has iterated
+loopstarts = {} # which line a loop starts at
 
-code_file_name = input("""👋➡️🐑Ⓜ️😮🧀0️⃣⏺️4️⃣❗❗❗❗
+code_file_name = input("""👋➡️🐑Ⓜ️😮🧀0️⃣⏺️5️⃣❗❗❗❗
 ⌨️📁🏷️➡️➡️➡️ """)
 
 try:
@@ -43,14 +43,17 @@ while i <= len(codelines): # it has to be a while loop so loops work properly
         linesegs = line.split("⏩")
 
         if linesegs[0] == "⬆️": # denotes end of a loop
-            iterations[loopid] += 1
+            iterations[loopid] += 1 # adds 1 to the iterations to kep track of how much has iterated
             if iterations[loopid] != to_iterate[loopid]:
-                i = loopstarts[loopid]
-            if iterations[loopid] == to_iterate[loopid]:
+                i = loopstarts[loopid] # return to start of loop
+            if iterations[loopid] == to_iterate[loopid]: # end the loop, delete all loop data
                 to_iterate.pop(loopid)
                 loopstarts.pop(loopid)
                 iterations.pop(loopid)
                 loopid -= 1
+
+        if linesegs[0] == "🔄️": # continue statement
+            i = loopstarts[loopid]
 
         elif linesegs[0] == "🖨️": # this is like pythons print() function
             if linesegs[1][0] == "📦":
@@ -115,6 +118,7 @@ while i <= len(codelines): # it has to be a while loop so loops work properly
                 variables[linesegs[1]] = variables[linesegs[1]] ** int(linesegs[2])
 
         elif linesegs[0] == "➰": #loops
+            # loop data setup
             if linesegs[1][0] == "📦":
                 loopid += 1
                 to_iterate[loopid] = variables[linesegs[1][1:]]
