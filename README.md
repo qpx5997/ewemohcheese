@@ -296,7 +296,7 @@ just put this:
 📦⏩a⏩⌨️
 ```
 
-so say the user inputted 7, now a will be 7 because of the above line of code.
+so say the user inputted 7, now `a` will be 7 because of the above line of code.
 
 ## chapter 9: LOUPS
 
@@ -327,7 +327,7 @@ ok
 make epople go in ETERNALITY. using the **🔄️**
 
 ```
-➰⏩3
+➰⏩1
 🖨️⏩🐑Ⓜ️😮🧀➡️👍👍👍
 🔄️
 🗒️ THE 🔄️ MAEK PPL GO TO ETERNAL.
