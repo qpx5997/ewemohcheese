@@ -338,7 +338,26 @@ BUTT! because this is pythob u can eazily get yourself out of the plight by pres
 
 also this can allow for while loops whonce i add the if in the future!!! so uhh yeah buye
 
-## chapter 11: exiting
+## chapter 11: eendentayshun
+
+sumtymes your code has so many loups or ifs!!! that its hard to tell which line s of code belong to which loup! so from v0.7 onwardds., we will start allowing ***INDENTATION!!!***
+
+it is gud because your coee is more readsable! yay
+
+python makes it cumpolsry, and js and c++ dont, and 🐑Ⓜ️😮🧀 doesnt cumpolsirize it eather, so its up to u weather y want to add indentation! iy is highly recomended ecause thren your code is more readable.
+
+EcxAMPLE OF INDENTATION!!
+
+`
+➰⏩2
+    🖨️⏩yay eendentayshun
+    ➰⏩2
+        🖨️⏩yay eendentayshun
+    ⬆️
+⬆️
+`
+
+## chapter 12: exiting
 
 if u want your program to END ALREADY BEFORE IT FINISHES RUNNING, just put
 
@@ -348,7 +367,7 @@ if u want your program to END ALREADY BEFORE IT FINISHES RUNNING, just put
 
 it ends the code!
 
-## chapter 12:erors,oof!!!
+## chapter 13:erors,oof!!!
 
 oh no!!! erors exist in 🐑Ⓜ️😮🧀 u know!!!
 
@@ -395,7 +414,7 @@ this is rthe **WORSTEST *SIN*** **OF ALL!!** its **VERY BA**D!!! the thing u did
 
 # This is why u should never do this kind of thing!!! dont u ever do this!!! maek sure all ur file s are ending with .🐑Ⓜ️😮🧀 and not anything else!!!!!!!!!!!!!!!!
 
-## chapter 13: u can do stuff
+## chapter 14: u can do stuff
 
 coagulations u just finished this! go on and code!!!!!!!!!!!!!!!!!!!
 
@@ -425,7 +444,7 @@ qpx5997
 
 .bye!!
 
-## Chapter 14: versions
+## Chapter 15: versions
 
 v0.1 (08/03/2026): first demo ver!!!!!!
 
@@ -438,3 +457,5 @@ v0.4 (14/03/2026): made it so that u have to press enter to exit after u see the
 v0.5 (02/04/2026): added 🔄️!!! also aded more cooments in the sourcecode
 
 v0.6 (02/04/2026): bugfix! if -> elif
+
+v0.7 (04/04/2026): allowed indentation
