@@ -407,7 +407,7 @@ u r free to use it however u want!!! because mit license!!! and change the code!
 
 ### my monologue about opensourceism
 
-i support opensourceism!!! unlike microsoft who close source it and expect us to decode the exes and dlls, not implying that microsoft is bad but the world needs code for all to share and use and copy freely without permission!* the world is full of software like fl studio where u have to pay $59 to make music and adobe animate where one needs to pay $170 A YEAR JUST TO ANIMATE OBJECT SHOWS!!! all my software is free to use and there on github, i use the mit license because it is good!!! it allows people to uhh umm copy and share and use it freely withut permision! thanks masechusets! ok bye
+i support opensourceism!!! unlike microsoft who close source it and expect us to decode the exes and dlls, not implying that microsoft is bad but the world needs code for all to share and use and copy freely without permission!* the world is full of software like fl studio where u have to pay $59 to make music and adobe animate where one needs to pay $275 A YEAR JUST TO ANIMATE OBJECT SHOWS!!! all my software is free to use and there on github, i use the mit license because it is good!!! it allows people to uhh umm copy and share and use it freely withut permision! thanks masechusets! ok bye
 
 *just kidding i know we arent suppose to decode the dlls lol
 
