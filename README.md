@@ -26,6 +26,9 @@ It's pronounced ew-mo-cheese. Happy now?
 
 BECAUSE WHY NOT. programming is all just letters numbers symbols, blah blah blah, boring times infinity. what we need is more HUE! more VIVIDITY! (if thats even correct lol) more PICTURES! And that's what 🐑Ⓜ️😮🧀 achieves!!!!!!!! also because i want to make a programming language that uses emojis and no ones ever used it before lol
 
+(UPDATE: another guy made this language called emojicode and it has like 1,766 stars or smth!!! so i am not the first :(
+well at least i was the first to make an emoji-based programing lang in python. so there.)
+
 ### So is this language good?
 
 kind of
